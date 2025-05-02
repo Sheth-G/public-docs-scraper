@@ -1,0 +1,361 @@
+Outputs :
+https://help.instagram.com/ 
+
+```json
+[
+  {
+    "module": "Instagram Features",
+    "Description": "Guidance on utilizing various Instagram functionalities.",
+    "Submodules": {
+      "Profile": "Information on setting up and managing your Instagram profile.",
+      "Sharing Photos and Videos": "Instructions for uploading and sharing media content.",
+      "Direct Messaging": "Details on sending and managing direct messages.",
+      "Stories": "Guidelines for creating and sharing Instagram Stories.",
+      "Reels": "Steps to create and share short videos using Reels.",
+      "Live": "Information on broadcasting live videos.",
+      "Shop": "Guidance on using Instagram's shopping features."
+    }
+  },
+  {
+    "module": "Manage Your Account",
+    "Description": "Assistance with account setup and management.",
+    "Submodules": {
+      "Sign Up and Getting Started": "Steps to create a new Instagram account.",
+      "Account Settings": "Information on adjusting account preferences.",
+      "Adding Accounts": "Guidance on managing multiple Instagram accounts.",
+      "Using Instagram Ads": "Instructions for creating and managing advertisements."
+    }
+  },
+  {
+    "module": "Staying Safe",
+    "Description": "Resources for maintaining safety on Instagram.",
+    "Submodules": {
+      "Safety Practices": "Tips for safe usage of the platform.",
+      "Handling Problematic Behavior": "Guidance on dealing with online harassment and abuse."
+    }
+  },
+  {
+    "module": "Privacy, Security, and Reporting",
+    "Description": "Information on privacy settings and reporting mechanisms.",
+    "Submodules": {
+      "Privacy Settings": "Instructions for managing who can see your content.",
+      "Login and Passwords": "Guidance on securing your account credentials.",
+      "Submitting Reports": "Steps to report inappropriate content or behavior."
+    }
+  },
+  {
+    "module": "Terms and Policies",
+    "Description": "Details on Instagram's official guidelines and policies.",
+    "Submodules": {
+      "Community Guidelines": "Rules for appropriate content and behavior.",
+      "Privacy Policy": "Information on how Instagram handles user data.",
+      "Terms of Use": "Legal terms governing the use of Instagram.",
+      "Platform Policy": "Guidelines for developers and third-party integrations."
+    }
+  }
+]
+```
+
+Invalid or unreachable URL: https://support.neo.space/hc/en-us. Error: 403 Client Error: Forbidden for url: https://support.neo.space/hc/en-us
+This needs to be handled using puppetteer or selenium.
+
+https://wordpress.org/documentation/
+```json
+[
+  {
+    "module": "WordPress Overview",
+    "Description": "Provides an introduction to WordPress and its community.",
+    "Submodules": {
+      "Where to Start?": "Guidance for newcomers on how to begin using WordPress.",
+      "FAQs": "A compilation of common questions from the WordPress community.",
+      "About WordPress": "Information about the WordPress project and its history."
+    }
+  },
+  {
+    "module": "Technical Guides",
+    "Description": "Offers instructions on installing WordPress and maintaining its security and performance.",
+    "Submodules": {
+      "Installation": "Step-by-step assistance for installing WordPress.",
+      "Maintenance": "Articles on keeping your site updated and functioning optimally.",
+      "Security": "Best practices for protecting your site, including password management and privacy considerations."
+    }
+  },
+  {
+    "module": "Support Guides",
+    "Description": "Covers the essentials of publishing content with WordPress.",
+    "Submodules": {
+      "Dashboard": "An overview of the WordPress control center.",
+      "Publishing": "Instructions on creating and publishing content.",
+      "Media": "Guidance on managing media files within WordPress."
+    }
+  },
+  {
+    "module": "Customization",
+    "Description": "Focuses on tailoring the appearance and functionality of your WordPress site.",
+    "Submodules": {
+      "Appearance": "Techniques for achieving the desired look and feel of your site.",
+      "Default Themes": "Information on the default themes included with WordPress.",
+      "Media Blocks": "Details on blocks like Audio, Cover, File, Gallery, Image, Media & Text, and Video.",
+      "Text Blocks": "Descriptions of basic text blocks that form the main content of your website.",
+      "Design Blocks": "Insights into layout blocks such as Group, Row, Stack, Buttons, Columns, and more.",
+      "Embed Blocks": "Information on various embed blocks and their configurations.",
+      "Widget Blocks": "Details on blocks available for use as widgets, including Archives and Calendar.",
+      "Theme Blocks": "Guidance on applying theme-specific blocks for block themes and custom templates."
+    }
+  },
+  {
+    "module": "Get More Help",
+    "Description": "Additional resources for support and involvement in the WordPress community.",
+    "Submodules": {
+      "Support Forums": "Platforms to ask questions and seek assistance.",
+      "Developers": "Access to developer documentation.",
+      "Content Suggestions": "Channels to report errors or suggest changes in the documentation.",
+      "Get Involved": "Information on contributing to the WordPress Documentation Team."
+    }
+  },
+  {
+    "module": "Advanced Topics",
+    "Description": "In-depth information for experienced users and developers.",
+    "Submodules": {
+      "REST API": "Guides on using the WordPress REST API for custom development.",
+      "CLI": "Documentation on the WordPress Command Line Interface for managing your site.",
+      "Multisite": "Information on setting up and managing a WordPress Multisite network."
+    }
+  },
+  {
+    "module": "Plugins",
+    "Description": "Resources related to WordPress plugins.",
+    "Submodules": {
+      "Plugin Development": "Guidelines and best practices for developing WordPress plugins.",
+      "Plugin Management": "Instructions on installing, updating, and managing plugins."
+    }
+  },
+  {
+    "module": "Themes",
+    "Description": "Resources related to WordPress themes.",
+    "Submodules": {
+      "Theme Development": "Guidelines and best practices for developing WordPress themes.",
+      "Theme Management": "Instructions on installing, updating, and managing themes."
+    }
+  },
+  {
+    "module": "Performance",
+    "Description": "Guides to optimize the speed and efficiency of your WordPress site.",
+    "Submodules": {
+      "Caching": "Techniques and plugins for implementing caching to improve site performance.",
+      "Database Optimization": "Methods for optimizing your WordPress database for better performance."
+    }
+  },
+  {
+    "module": "SEO",
+    "Description": "Resources to improve your site's visibility in search engines.",
+    "Submodules": {
+      "SEO Best Practices": "Guidelines for optimizing your content and site structure for search engines.",
+      "SEO Plugins": "Information on plugins that can assist with SEO efforts."
+    }
+  }
+]
+```
+
+https://help.zluri.com/
+```json
+[
+  {
+    "module": "Getting Started",
+    "Description": "Guides to help new users set up their accounts and configure organizational settings.",
+    "Submodules": {
+      "Account Setup": "Instructions on creating and configuring a new Zluri account.",
+      "Organization Configuration": "Guidelines for setting up organizational preferences and settings."
+    }
+  },
+  {
+    "module": "Application Management",
+    "Description": "Tools to discover, monitor, and manage all SaaS applications within the organization.",
+    "Submodules": {
+      "Application Discovery": "Methods to identify and catalog SaaS applications in use.",
+      "Application Monitoring": "Techniques to track application usage and performance.",
+      "Application Management": "Processes for managing application access, settings, and configurations."
+    }
+  },
+  {
+    "module": "User Management",
+    "Description": "Features to view and manage users within the organization.",
+    "Submodules": {
+      "User Directory": "Comprehensive list and details of all users.",
+      "User Roles and Permissions": "Assignment and management of user roles and access levels.",
+      "User Activity Monitoring": "Tracking and analyzing user activities within applications."
+    }
+  },
+  {
+    "module": "Cost Management",
+    "Description": "Tools to track SaaS spending, manage contract renewals, and optimize license usage.",
+    "Submodules": {
+      "Spend Analysis": "Detailed reports on SaaS expenditures.",
+      "Contract Management": "Tracking and managing SaaS contracts and renewal dates.",
+      "License Optimization": "Identifying underutilized licenses and opportunities for cost savings."
+    }
+  },
+  {
+    "module": "Access Provisioning",
+    "Description": "Automation of employee onboarding and offboarding using no-code workflows.",
+    "Submodules": {
+      "Onboarding Workflows": "Automated processes for provisioning new employees with necessary applications and access.",
+      "Offboarding Workflows": "Automated processes for deprovisioning departing employees to maintain security."
+    }
+  },
+  {
+    "module": "Access Requests",
+    "Description": "Automation of application access for employees through self-service requests and approval workflows.",
+    "Submodules": {
+      "Self-Service Portal": "Platform for employees to request access to applications.",
+      "Approval Workflows": "Configurable workflows for approving or denying access requests."
+    }
+  },
+  {
+    "module": "Access Reviews",
+    "Description": "Tools to conduct automated access reviews to ensure compliance and security.",
+    "Submodules": {
+      "Certification Creation": "Setting up periodic reviews of user access to applications.",
+      "Review Process": "Guidelines for conducting and documenting access reviews.",
+      "Remediation Actions": "Steps to take when inappropriate access is identified."
+    }
+  },
+  {
+    "module": "Integrations",
+    "Description": "Instructions to connect existing applications and systems with Zluri.",
+    "Submodules": {
+      "Integration Setup": "Step-by-step guides for integrating various applications.",
+      "Integration Management": "Monitoring and managing existing integrations."
+    }
+  },
+  {
+    "module": "Workflows & Automations",
+    "Description": "Guides to set up and run no-code workflow automations to streamline IT operations.",
+    "Submodules": {
+      "Workflow Creation": "Building custom workflows for various IT processes.",
+      "Automation Rules": "Defining rules to automate repetitive tasks."
+    }
+  },
+  {
+    "module": "Settings",
+    "Description": "Options to manage account, organization, billing, and configure Zluri according to preferences.",
+    "Submodules": {
+      "Account Settings": "Managing personal account details and security settings.",
+      "Organization Settings": "Configuring organizational preferences and policies.",
+      "Billing Information": "Viewing and updating billing details and payment methods."
+    }
+  },
+  {
+    "module": "Security and Compliance",
+    "Description": "Features to ensure the security and compliance of all applications associated with the Zluri Dashboard.",
+    "Submodules": {
+      "Security Overview": "Monitoring security status and identifying potential risks.",
+      "Compliance Management": "Ensuring applications meet regulatory and organizational compliance standards."
+    }
+  },
+  {
+    "module": "Departments",
+    "Description": "Management of organizational departments, including user assignments and application usage.",
+    "Submodules": {
+      "Department Overview": "Viewing and managing department details and metrics.",
+      "User Assignments": "Assigning users to departments and managing their roles.",
+      "Application Allocation": "Tracking application usage and costs by department."
+    }
+  }
+]
+```
+
+https://www.chargebee.com/docs/2.0/
+
+```json
+[
+  {
+    "module": "Billing",
+    "Description": "Manage subscriptions, billing, and invoicing at scale.",
+    "Submodules": {
+      "Subscriptions": "Handle customer subscriptions, including creation, modification, and cancellation.",
+      "Entitlements": "Manage access rights and permissions associated with subscriptions.",
+      "Multi-Business Entity": "Operate multiple business entities within a single Chargebee account.",
+      "Checkout and Portal": "Customize and manage the checkout experience and customer self-service portal."
+    }
+  },
+  {
+    "module": "Payments",
+    "Description": "Automate recurring payments for customers across the globe.",
+    "Submodules": {
+      "Payment Methods": "Support various payment methods, including credit cards, PayPal, and more.",
+      "Payment Gateways": "Integrate with multiple payment gateways to process transactions.",
+      "Dunning": "Implement strategies to handle payment failures and recover revenue."
+    }
+  },
+  {
+    "module": "Receivables",
+    "Description": "Get paid faster with a proactive collection strategy.",
+    "Submodules": {
+      "Payment Failure Recovery": "Automate retries and communications to recover failed payments.",
+      "Communications": "Manage customer communications related to billing and payments.",
+      "Reports and Analytics": "Generate reports and analyze data to monitor receivables performance."
+    }
+  },
+  {
+    "module": "RevRec",
+    "Description": "Unburden your finance team with automated and compliant revenue recognition.",
+    "Submodules": {
+      "Revenue Rules": "Define rules for recognizing revenue in compliance with accounting standards.",
+      "Data Processing & Validation": "Process and validate data for accurate revenue recognition.",
+      "General Ledger & Accounting Close": "Integrate with general ledger systems and manage accounting close processes."
+    }
+  },
+  {
+    "module": "Retention",
+    "Description": "Reduce churn and grow lifetime value with an experience your customers can’t resist.",
+    "Submodules": {
+      "Managing Experiences": "Design and implement customer experiences to enhance retention.",
+      "Reports and Analytics": "Analyze retention metrics and generate reports.",
+      "Starter Churn Insights": "Gain insights into early-stage customer churn and take preventive actions."
+    }
+  },
+  {
+    "module": "Tools to Get Started",
+    "Description": "Start your integration with our No Code-Low Code solutions and more.",
+    "Submodules": {
+      "No Code": {
+        "Get Payment Link": "Generate payment links without coding.",
+        "Send & Collect Invoice": "Send invoices and collect payments without coding.",
+        "Send Quotes": "Create and send quotes without coding."
+      },
+      "Low Code": {
+        "Drop-In Script": "Integrate Chargebee with minimal coding using drop-in scripts.",
+        "Chargeback Management": "Manage chargebacks with minimal coding.",
+        "Account Updater": "Keep customer payment information up-to-date with minimal coding."
+      },
+      "Developers": {
+        "API Reference": "Comprehensive reference for Chargebee's API.",
+        "Tutorials": "Step-by-step guides for integrating and using Chargebee.",
+        "Front-End Capabilities": "Explore front-end integration options and capabilities."
+      }
+    }
+  },
+  {
+    "module": "Integrations",
+    "Description": "Find the right apps that integrate and extend Chargebee to help your business grow faster.",
+    "Submodules": {
+      "Tax": "Integrate with tax solutions to manage tax calculations and compliance.",
+      "CRM": "Connect with Customer Relationship Management systems.",
+      "Finance": "Integrate with financial software for accounting and reporting.",
+      "Cloud ERP": "Connect with Enterprise Resource Planning systems.",
+      "Others": "Explore additional integrations to extend Chargebee's capabilities."
+    }
+  },
+  {
+    "module": "What's New in Chargebee?",
+    "Description": "Find all the latest updates happening at Chargebee here.",
+    "Submodules": {
+      "Metric Descriptions": "Access updated metric descriptions for better understanding.",
+      "Transaction Sync and Invoice Mapping": "Manage reconciliations for transactions and invoices.",
+      "Omnichannel Subscriptions (EAP)": "Unify Apple and web purchases for seamless cross-platform experiences.",
+      "Nuvei via payFURL (Private Beta)": "Integrate with Nuvei for global payment solutions."
+    }
+  }
+]
+```
