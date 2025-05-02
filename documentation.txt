@@ -1,0 +1,15 @@
+Technical Architecture:
+- Took an alternate and simple approach to solve the problem due to lack of time given I was travelling and was tied up with my job and since the deadline could not be extended much.
+- Used the latest Agentic-SDK by openai which supportsn inbuilt web search which would be ideal for the problem statement.
+- Rest of it is just basic python code and error handling for urls.
+
+Limitations :
+- Hallucinations and Missing some information. LLMs have a tendency to hallucinate and since we are handing over the control of the web scraping to openAI, good chances it might miss some modules and submodules.
+ However, based on the testing results, it still performs decently, what would've taken ideally 2 days of engineering effort, got done under two hours with this new approach. Albeit with less accurate results.
+- URL verification is not working for some pages due to bot detection, need to use selenium/puppeteer here to resolve that.
+
+
+
+
+
+
